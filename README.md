@@ -1,2 +1,2 @@
 # friendly-octo-waddle
-new proj
+new project
